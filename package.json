@@ -61,7 +61,7 @@
     }
   },
   "dependencies": {
-    "node-hid": "^0.5.4"
+    "node-hid": "^0.7.9"
   },
   "devDependencies": {
     "babel-eslint": "^7.1.1",
